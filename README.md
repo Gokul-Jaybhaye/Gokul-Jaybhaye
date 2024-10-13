@@ -1,3 +1,4 @@
+![logo](https://github.com/Gokul-Jaybhaye/Gokul-Jaybhaye/blob/main/Banner.png)
 <h1>👋 Hi, I'm Gokul Jaybhaye</h1>
 <h2>Full Stack  Java Developer | Android Developer | Open Source Contributor</h2>
 <h3>🚀 I’m a full-stack developer with expertise in:</h3>
@@ -20,6 +21,16 @@
   <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> 
   </p>
+  ## 📊 GitHub Stats
+
+![Gokul Jaybhaye GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokul-Jaybhaye&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-Jaybhaye&layout=compact&theme=radical)
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gokul-Jaybhaye&theme=radical)
+
+
   <h1>📫 How to Reach Me</h1>
   <p> <a href="https://linkedin.com/in/gokul-jaybhaye"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </a> <a href="mailto:your.jaybhayegokul3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p><a href="https://twitter.com/gokul1_jaybhaye"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a></p>
 
