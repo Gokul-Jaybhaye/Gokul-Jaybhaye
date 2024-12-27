@@ -29,6 +29,7 @@
 ## 🔥 GitHub Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gokul-Jaybhaye&theme=radical)
+- 🛠️ **GitHub Profile Trophy** - ![Trophy](https://github-profile-trophy.vercel.app/?username=Gokul-Jaybhaye)  
 
 
   <h1>📫 How to Reach Me</h1>
