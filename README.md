@@ -27,8 +27,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-Jaybhaye&layout=compact&theme=radical)
 
-### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gokul-Jaybhaye&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 
 - 🛠️ **GitHub Profile Trophy** - ![Trophy](https://github-profile-trophy.vercel.app/?username=Gokul-Jaybhaye)
