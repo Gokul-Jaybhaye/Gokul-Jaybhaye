@@ -27,10 +27,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-Jaybhaye&layout=compact&theme=radical)
 
-
-
-- 🛠️ **GitHub Profile Trophy** - ![Trophy](https://github-profile-trophy.vercel.app/?username=Gokul-Jaybhaye)
-
 - ## 🌎 Visitor Count  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokul-Jaybhaye)  
