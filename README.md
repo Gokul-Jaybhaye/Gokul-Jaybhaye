@@ -6,7 +6,7 @@
 <b>Backend:</b> Java, Spring Boot, MySQL<br>
 <b>Mobile Development:</b>Android (Java)<br>
 <b>Other Tools:</b> Git, Docker, Jenkins, RESTful APIs<br>
-<h4>I'm passionate about building scalable and user-friendly web and mobile applications, and I enjoy contributing to open-source projects.</h4>
+<h4>I'm passionate about building scalable and user-friendly web and mobile applications, and I enjoy contributing to open-source project.</h4>
 <h1>💼 Experience and Training</h1>
   <b>Full-Stack Developer Trainee at Naresh i Technologies</b><br>
   * Built and deployed web applications using Spring Boot, React, and MySQL.
