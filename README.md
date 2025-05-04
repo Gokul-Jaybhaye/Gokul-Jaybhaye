@@ -39,7 +39,7 @@
 
   <h1>📫 How to Reach Me</h1>
   <p> <a href="https://linkedin.com/in/gokul-jaybhaye"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </a> <a href="mailto:your.jaybhayegokul3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p><a href="https://twitter.com/gokul1_jaybhaye"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a></p>
-- Portfolio: [Website](https://gokuljaybhaye.in)
+
 <h6>"Code is like humor. When you have to explain it, it’s bad." – Cory House</h6>
 
 
