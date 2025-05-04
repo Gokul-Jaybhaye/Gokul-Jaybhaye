@@ -27,6 +27,9 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-Jaybhaye&layout=compact&theme=radical)
 
+[View My Resume](https://drive.google.com/file/d/1ZhomBV0a2vfprpz1Ae1Ln3sKb0Ugl1-k/view?usp=sharing)
+
+
 - ## 🌎 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokul-Jaybhaye)  
