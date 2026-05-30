@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> 
   </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Gokul-Jaybhaye&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - ## 🌎 Visitor Count
 
@@ -29,6 +28,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gokul-Jaybhaye&theme=radical)
 ![GitHub followers](https://img.shields.io/github/followers/Gokul-Jaybhaye?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Gokul-Jaybhaye?style=for-the-badge)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gokul-Jaybhaye&theme=radical&no-bg=true&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
