@@ -27,7 +27,6 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokul-Jaybhaye)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gokul-Jaybhaye&theme=radical)
-![Snake animation](https://github.com/Gokul-Jaybhaye/Gokul-Jaybhaye/blob/output/github-contribution-grid-snake.svg)
 ![Stars](https://img.shields.io/github/stars/Gokul-Jaybhaye?style=for-the-badge)
 
 
