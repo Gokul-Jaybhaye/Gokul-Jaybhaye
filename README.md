@@ -27,6 +27,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokul-Jaybhaye)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Gokul-Jaybhaye&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/Gokul-Jaybhaye?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Gokul-Jaybhaye?style=for-the-badge)
 
 
