@@ -21,18 +21,14 @@
   <img src="https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> 
   </p>
-  ## 📊 GitHub Stats
-
-![Gokul Jaybhaye GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gokul-Jaybhaye&show_icons=true&theme=radical)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-Jaybhaye&layout=compact&theme=radical)
-
-[View My Resume](https://drive.google.com/file/d/1ZhomBV0a2vfprpz1Ae1Ln3sKb0Ugl1-k/view?usp=sharing)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gokul-Jaybhaye&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 - ## 🌎 Visitor Count
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Gokul-Jaybhaye)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Gokul-Jaybhaye&theme=radical)
+![Snake animation](https://github.com/Gokul-Jaybhaye/Gokul-Jaybhaye/blob/output/github-contribution-grid-snake.svg)
+![Stars](https://img.shields.io/github/stars/Gokul-Jaybhaye?style=for-the-badge)
 
 
 
